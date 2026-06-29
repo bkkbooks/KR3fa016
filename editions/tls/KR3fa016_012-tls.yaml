@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa016/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天文三十六全圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa016.xml
+hash: sha256:2c5975a832240ff52552f888b841f1ab61b6185d398e76979f4101b3065ca96c

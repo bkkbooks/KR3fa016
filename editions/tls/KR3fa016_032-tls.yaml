@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa016/tls/v1/juan/32
+seq: 32
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 立夏四月節小滿四月中昏刻張十五度昏刻翼十七度一更軫六度一更角七度二更亢三度二更氐十一度三更氐八度三更心二度四更房五度四更尾八度五更箕一度五更斗四度曉刻斗十七度曉刻牛四度日出胃十一度日出昴十度
+  hash: sha256:0ac1cb02b1c7ac30f3855ebe3d7af43a2193910df4ed77361c1640790de04a70
+metadata:
+  title: 天文三十六全圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa016.xml
+hash: sha256:5f320950bc4a121e78ddc7e8b3fa640fc7c3e0e02c167674483d5fd85a918f6b

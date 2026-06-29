@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa016/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 立春正月節雨水正月中昏刻胃十度昏刻畢三度一更參四度一更井十一度二更井三十二度二更十二度三更星二度三更張十一度四更張十五度四更翼十二度五更角一度五更亢一度曉刻房二度曉刻尾初度日出二度日出危八度
+  hash: sha256:e167813367e99fd20893a19e9cb09b5f0578680108fb28d763d6636671e152f1
+metadata:
+  title: 天文三十六全圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa016.xml
+hash: sha256:e4f6e058ba87669e8a3a1bedb862be86e60d1680438e55db9f1ed13056841481

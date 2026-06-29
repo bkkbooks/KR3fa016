@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa016/tls/v1/juan/56
+seq: 56
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夏至日行天二百一十六度春分日行天一百八十度冬至日行天一百四十四度秋分日行天一百八十度
+  hash: sha256:2cd2e3619d5002a6a425295b3ae3f1406c35e54accef96795faf4897e4af24f8
+metadata:
+  title: 天文三十六全圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa016.xml
+hash: sha256:ae602a31004373db4d165b921b8ec404c867617ffb0f11511f860e32e96519d0

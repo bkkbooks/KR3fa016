@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa016/tls/v1/juan/34
+seq: 34
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 芒種五月節夏至五月中昏刻軫十六度昏刻亢四度一更氐二度一更房三度二更心五度二更尾十五度三更尾十度三更箕七度四更箕四度四更斗十度五更斗十六度五更女一度曉刻女十一度曉刻危五度日出畢四度日出井二度
+  hash: sha256:e6a945fdc479d0f54c2a49924d4215b150b25f62df4ffac056b710ecb1ac65b9
+metadata:
+  title: 天文三十六全圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa016.xml
+hash: sha256:1ba487b2602d84d53719a08bad1a26fb3e21cae0431ff83aacf8812e8b8d7b92

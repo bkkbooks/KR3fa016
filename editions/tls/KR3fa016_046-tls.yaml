@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa016/tls/v1/juan/46
+seq: 46
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大雪十一月節冬至十一月中昏刻危六度昏刻室七度一更奎七度一更婁七度二更昴四度二更畢九度三更畢十三度三更井二度四更井五度四更井十三度五更十一度五更張九度曉刻翼十六度曉刻軫十五度日出尾九度日出箕七度
+  hash: sha256:54b7830644355206e0dbc84f480cd2e6f8b08481b8a969e2dec772ca0a2c0b76
+metadata:
+  title: 天文三十六全圖
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa016.xml
+hash: sha256:012911b2e276dfc2626a236ea5759ff5dfa58c61b1fe716b1e99a40f060e0b80

@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR3fa016/bkk/v1/markers/44
+seq: 44
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fa016_tls_001-p11.s11}
+  - {type: line-break, offset: 0, content: '', id: KX_11_dup5, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: 'tls:seg', offset: 10, content: '', id: KR3fa016_tls_001-p11.s12}
+  - {type: line-break, offset: 10, content: '', id: KX_12_dup5, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: punctuation, offset: 17, content: □, id: KR3fa016_tls_044-bkkpn1}
+  - {type: 'tls:seg', offset: 19, content: '', id: KR3fa016_tls_001-p11.s13}
+  - {type: line-break, offset: 19, content: '', id: KX_13_dup5, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 30, content: '', id: KR3fa016_tls_001-p11.s14}
+  - {type: line-break, offset: 30, content: '', id: KX_14_dup5, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 40, content: '', id: KR3fa016_tls_001-p11.s15}
+  - {type: line-break, offset: 40, content: '', id: KX_15_dup5, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 50, content: '', id: KR3fa016_tls_001-p11.s16}
+  - {type: line-break, offset: 50, content: '', id: KX_16_dup5, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 62, content: '', id: KR3fa016_tls_001-p11.s17}
+  - {type: line-break, offset: 62, content: '', id: KX_17_dup5, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 74, content: '', id: KR3fa016_tls_001-p11.s18}
+  - {type: line-break, offset: 74, content: '', id: KX_18_dup5, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: punctuation, offset: 76, content: □, id: KR3fa016_tls_044-bkkpn2}
+  - {type: 'tls:seg', offset: 85, content: '', id: KR3fa016_tls_001-p11.s19}
+  - {type: line-break, offset: 85, content: '', id: KX_19_dup5, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  back: []
+hash: sha256:c08186f016510d026a37dd0797fa4b648fb28af4cfe69a4f092cb0fbe6178659
